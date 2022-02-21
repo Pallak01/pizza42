@@ -1,0 +1,6 @@
+REACT_APP_AUTH0_DOMAIN=dev-icemc2h3.us.auth0.com
+REACT_APP_AUTH0_CLIENT_ID=N7YQkdS7EROnnFItQgBUFbqYmew9EIaf
+REACT_APP_AUTH0_AUDIENCE=https://express.sample
+REACT_APP_SERVER_URL=https://3.95.167.228:6060
+APP_URL=https://dev-icemc2h3.us.auth0.com/userinfo
+METADATA_URL=https://orderhistory/user_metadata
